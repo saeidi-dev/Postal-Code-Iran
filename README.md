@@ -1,6 +1,4 @@
 # Iran Postal Code to State converter
-==============================
-
 This is a simple class to convert from a iran postal code to a iran state.
 
 Usage 
